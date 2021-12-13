@@ -1,10 +1,18 @@
-## Hi, I'm [Shreyas][website]
+## 👋 Hi, I'm [Shreyas][website]
 
 ### I work on creative applications of technology
 
 - Currently, I'm working on Electrical Muscle Stimulation to design bodily games in Human-Computer Interaction
 - I'm the developer and co-designer behind QLogic, a quantum computing puzzle game
 - I create YouTube videos on coding related stuff
+
+<br>
+
+## GitHub Stats
+
+<img alt="shreyasnisal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shreyasnisal&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=dracula" />
+
+<br>
 
 ## Connect with me
 
@@ -19,7 +27,7 @@
 <br>
 <br>
 
-## Latest YouTube Videos
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
