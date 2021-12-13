@@ -2,9 +2,11 @@
 
 ### I work on creative applications of technology
 
-- Currently, I'm working on Electrical Muscle Stimulation to design bodily games in Human-Computer Interaction
+- Currently, I'm a Research Assistant at the Exertion Games Lab at Monash University
+- I'm exploring bodily games in Human-Computer Interaction (HCI) using Electrical Muscle Stimulation (EMS)
 - I'm the developer and co-designer behind QLogic, a quantum computing puzzle game
 - I create YouTube videos on coding related stuff
+- Do check out Speech Programmer, my most popular open-source project
 
 <br>
 
@@ -34,5 +36,5 @@
 [website]: https://shreyasnisal.com
 [youtube]: https://www.youtube.com/c/ShreyasNisal
 [linkedin]: https://linkedin.com/in/shreyasnisal
-[twitter]: https://www.twitter.com/shreyasnisal
+[twitter]: https://www.twitter.com/shreyas_nisal
 [medium]: https://shreyasnisal.medium.com
