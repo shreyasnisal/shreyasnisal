@@ -11,7 +11,12 @@
 [<img align="left" alt="ShreyasNisal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="ShreyasNisal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+<!-- [<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium] -->
+
+## <img align="left" alt="ShreyasNisal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YouTUBE:END -->
+
 
 [website]: https://shreyasnisal.com
 [youtube]: https://www.youtube.com/c/ShreyasNisal
