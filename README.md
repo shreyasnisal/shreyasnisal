@@ -30,11 +30,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Twilio Internship Experience](https://www.youtube.com/watch?v=seEfpu2MXXs)
 - [Parsing using Bison](https://www.youtube.com/watch?v=fFRxWtRibC8)
 - [Twilio Interview Experience](https://www.youtube.com/watch?v=oYsbGclP3_c)
 - [Brick Breaker in Unity: Collisions](https://www.youtube.com/watch?v=uxMz-QlPehw)
 - [How I Landed my Thesis at Monash University](https://www.youtube.com/watch?v=jEcJdGKWqwE)
-- [Brick Breaker in Unity: Ball and Paddle Movement](https://www.youtube.com/watch?v=qA012RujxwY)
 <!-- YOUTUBE:END -->
 
 
