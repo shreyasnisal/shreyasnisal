@@ -2,8 +2,9 @@
 
 ### I work on creative applications of technology
 
-- Currently, I'm a Research Assistant at the Exertion Games Lab at Monash University
-- I'm exploring bodily games in Human-Computer Interaction (HCI) using Electrical Muscle Stimulation (EMS)
+- Currently, I'm a Research Intern at the Fluid Interfaces group at MIT Media Lab, studying Affective Brain-Computer Interfaces (aBCI) using Electroencephalography (EEG)
+- I worked as a Research Assistant at the Exertion Games Lab at Monash University from May 2021 - Jan 2022, exploring bodily games in Human-Computer Interaction (HCI) using Electrical Muscle Stimulation (EMS)
+- I've interned as a software developer at Twilio, Mednet Labs and BitHyve
 - I'm the developer and co-designer behind QLogic, a quantum computing puzzle game
 - I create YouTube videos on coding related stuff
 - Do check out Speech Programmer, my most popular open-source project
@@ -23,6 +24,7 @@
 [<img align="left" alt="shreyasnisal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ShreyasNisal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="NisalCodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="ShreyasNisal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 <!-- [<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium] -->
 
@@ -41,5 +43,6 @@
 [website]: https://shreyasnisal.com
 [youtube]: https://www.youtube.com/c/ShreyasNisal
 [linkedin]: https://linkedin.com/in/shreyasnisal
+[instagram]: https://www.instagram.com/nisalcodes/
 [twitter]: https://www.twitter.com/shreyas_nisal
 [medium]: https://shreyasnisal.medium.com
