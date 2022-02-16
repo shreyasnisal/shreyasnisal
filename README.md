@@ -3,7 +3,7 @@
 ### I work on creative applications of technology
 
 - Currently, I'm a Research Intern at the Fluid Interfaces group at MIT Media Lab, studying Affective Brain-Computer Interfaces (aBCI) using Electroencephalography (EEG)
-- I worked as a Research Assistant at the Exertion Games Lab at Monash University from May 2021 - Jan 2022, exploring bodily games in Human-Computer Interaction (HCI) using Electrical Muscle Stimulation (EMS)
+- I worked as a Research Assistant at the Exertion Games Lab at Monash University from May 2021 - Jan 2022, exploring bodily games using Electrical Muscle Stimulation (EMS)
 - I've interned as a software developer at Twilio, Mednet Labs and BitHyve
 - I'm the developer and co-designer behind QLogic, a quantum computing puzzle game
 - I create YouTube videos on coding related stuff
