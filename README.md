@@ -2,7 +2,7 @@
 
 ### I work on creative applications of technology
 
-- Currently, I'm working as software enginner at **Twilio**
+- I was a software enginner at **Twilio** from August 2022 to February 2023
 - I worked as a Research Intern at the Fluid Interfaces group at **MIT Media Lab** from Feb 2022 - July 2022, studying Affective Brain-Computer Interfaces (aBCI) using Electroencephalography (EEG)
 - I also worked as a Research Intern at the **Exertion Games Lab** at Monash University from May 2021 - Jan 2022, exploring bodily games using Electrical Muscle Stimulation (EMS)
 - I've interned as a software developer at **Twilio**, **Mednet Labs** and **BitHyve**
@@ -23,11 +23,10 @@
 
 <br>
 
-[<img align="left" alt="shreyasnisal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ShreyasNisal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="NisalCodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="ShreyasNisal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 <!-- [<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium] -->
 
 <br>
