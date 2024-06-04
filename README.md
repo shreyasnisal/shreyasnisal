@@ -2,7 +2,7 @@
 
 ### I work on creative applications of technology
 
-- I'm currently pursuing a master's in Digital Game Development with a specialization in software development at SMU Guildhall
+- I'm currently pursuing a master's in **Digital Game Development** with a specialization in software development at **SMU Guildhall**
 - I was a software enginner at **Twilio** from August 2022 to February 2023
 - I worked as a Research Intern at the Fluid Interfaces group at **MIT Media Lab** from Feb 2022 - July 2022, studying Affective Brain-Computer Interfaces (aBCI) using Electroencephalography (EEG)
 - I also worked as a Research Intern at the **Exertion Games Lab** at Monash University from May 2021 - Jan 2022, exploring bodily games using Electrical Muscle Stimulation (EMS)
