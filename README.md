@@ -35,6 +35,3 @@
 [gamedev website]: https://gamedev.shreyasnisal.com
 [youtube]: https://www.youtube.com/c/ShreyasNisal
 [linkedin]: https://linkedin.com/in/shreyasnisal
-[instagram]: https://www.instagram.com/nisalcodes/
-[twitter]: https://www.twitter.com/shreyas_nisal
-[medium]: https://shreyasnisal.medium.com
