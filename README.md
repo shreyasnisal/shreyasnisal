@@ -2,12 +2,10 @@
 
 ### I work on creative applications of technology
 
-- I'm currently pursuing a master's in **Digital Game Development** with a specialization in software development at **SMU Guildhall**
-- I was a software enginner at **Twilio** from August 2022 to February 2023
-- I worked as a Research Intern at the Fluid Interfaces group at **MIT Media Lab** from Feb 2022 - July 2022, studying Affective Brain-Computer Interfaces (aBCI) using Electroencephalography (EEG)
-- I also worked as a Research Intern at the **Exertion Games Lab** at Monash University from May 2021 - Jan 2022, exploring bodily games using Electrical Muscle Stimulation (EMS)
-- I've interned as a software developer at **Twilio**, **Mednet Labs** and **BitHyve**
-- I completed my undergraduate degree at **BITS Goa** in 2022, majoring in Computer Science and Physics
+- My interest lies in exploring technology for creative applications, with a special focus on play experiences and interaction between humans and technology.
+- I'm a gameplay and engine programmer with experience in developing a custom C++ game engine with a DirectX11 rendering pipeline.
+- I've developed several games in my custom game engine, Unity and Unreal Engine 5.
+- I have another custom game engine developed using JavaScript with a WebGL rendering pipeline.
 
 <br>
 
@@ -34,6 +32,7 @@
 
 
 [website]: https://shreyasnisal.com
+[gamedev website]: https://gamedev.shreyasnisal.com
 [youtube]: https://www.youtube.com/c/ShreyasNisal
 [linkedin]: https://linkedin.com/in/shreyasnisal
 [instagram]: https://www.instagram.com/nisalcodes/
