@@ -2,10 +2,11 @@
 
 ### I work on creative applications of technology
 
-- My interest lies in exploring technology for creative applications, with a special focus on play experiences and interaction between humans and technology.
-- I'm a gameplay and engine programmer with experience in developing a custom C++ game engine with a DirectX11 rendering pipeline.
-- I've developed several games in my custom game engine, Unity and Unreal Engine 5.
-- I have another custom game engine developed using JavaScript with a WebGL rendering pipeline.
+- I'm a gameplay and engine programmer with experience in developing custom game engines and creating games using Unity and Unreal.
+- [ReyEngine](https://github.com/shreyasnisal/ReyEngine) is my custom C++ game engine with several 2D, 3D and VR games developed in it.
+- [ReyWebEngine](https://github.com/shreyasnisal/ReyWebEngine) is my custom JavaScript game engine which uses a WebGL rendering pipeline.
+- I'm excited about Virtual Reality (VR) game development, with both engines supporting VR using OpenXR and WebXR.
+- Also check out [ArchiLeapVR](https://github.com/shreyasnisal/ArchiLeapVR), a first-person VR platformer with an in-game level editor.
 
 <br>
 
