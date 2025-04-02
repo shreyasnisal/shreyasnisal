@@ -13,23 +13,11 @@
 
 <br>
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][gamedev website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-<!--[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]-->
-<!-- [<img align="left" alt="ShreyasNisal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium] -->
 
 <br>
-
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Research Internship at MIT Media Lab](https://www.youtube.com/watch?v=7TNJU4KcIkQ)
-- [Twilio Internship Experience](https://www.youtube.com/watch?v=seEfpu2MXXs)
-- [Parsing using Bison](https://www.youtube.com/watch?v=fFRxWtRibC8)
-- [Twilio Interview Experience](https://www.youtube.com/watch?v=oYsbGclP3_c)
-- [Brick Breaker in Unity: Collisions](https://www.youtube.com/watch?v=uxMz-QlPehw)
-<!-- YOUTUBE:END -->
-
 
 [website]: https://shreyasnisal.com
 [gamedev website]: https://gamedev.shreyasnisal.com
