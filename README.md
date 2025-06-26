@@ -2,7 +2,7 @@
 
 ### I work on creative applications of technology
 
-- I'm a software engineer focusing on gameplay and engine systems and have developed custom engines and created games in Unity and Unreal.
+- I'm a software engineer focusing on gameplay and engine systems. I've developed custom game engines and games in Unity and Unreal.
 - [ReyEngine](https://github.com/shreyasnisal/ReyEngine) is my custom C++ game engine with several 2D, 3D and VR games developed in it.
 - [ReyWebEngine](https://github.com/shreyasnisal/ReyWebEngine) is my custom JavaScript game engine which uses a WebGL rendering pipeline.
 - I'm excited about Virtual Reality (VR) game development, with both engines supporting VR using OpenXR and WebXR.
